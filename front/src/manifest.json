@@ -1,0 +1,22 @@
+{
+  "name": "Created By LuDan",
+  "short_name": "Created By LuDan",
+  "display": "standalone",
+  "start_url": "./?utm_source=homescreen",
+  "theme_color": "#002140",
+  "background_color": "#001529",
+  "icons": [
+    {
+      "src": "ludan.svg.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "ludan.svg",
+      "sizes": "128x128"
+    },
+    {
+      "src": "ludan.svg.png",
+      "sizes": "512x512"
+    }
+  ]
+}
