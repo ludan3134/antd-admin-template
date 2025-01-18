@@ -110,3 +110,12 @@ java -jar .\target\server-0.0.1-SNAPSHOT.jar
 
 ## 示例效果图
 ![image](https://github.com/ludan3134/iamge/blob/main/projectMockup01.png)
+
+![image](https://github.com/ludan3134/iamge/blob/main/projectMockup02.png)
+
+![image](https://github.com/ludan3134/iamge/blob/main/projectMockup05.png)
+
+![image](https://github.com/ludan3134/iamge/blob/main/projectMockup04.png)
+
+![image](https://github.com/ludan3134/iamge/blob/main/projectMockup03.png)
+
