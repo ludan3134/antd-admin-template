@@ -1,0 +1,3 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-13 10:28:31.985	[31merror[0m	C:/Users/RJ516/Desktop/attendance/server/api/v1/attendance/attendance.go:17	上传失败!	{"error": "no multipart boundary param in Content-Type"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-13 10:31:45.890	[31merror[0m	C:/Users/RJ516/Desktop/attendance/server/api/v1/attendance/attendance.go:17	上传失败!	{"error": "no multipart boundary param in Content-Type"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-13 12:03:43.822	[31merror[0m	C:/Users/RJ516/Desktop/attendance/server/core/server.go:23	listen tcp :7777: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
